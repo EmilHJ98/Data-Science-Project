@@ -13,4 +13,11 @@
 #### If you want to read the entire report you can click the link [Co2 Emission Prediction Report](https://github.com/EmilHJ98/Data-Science-Project/blob/main/Project_report.pdf)
 
 ## Streamlit App
+#### We've made a simple Streamlit App so we are able to see the result of our top two models. 
+#### With the help from rmse and r^2score we see the result from our models.
+#### We have also made some histograph and boxplot so we are able to see our predictions better.
+
+![Purpose](https://github.com/EmilHJ98/Data-Science-Project/blob/main/Image%20folder/Streamlit_page1.png)
+![Data and models](https://github.com/EmilHJ98/Data-Science-Project/blob/main/Image%20folder/Streamlit_page2.png)
+![Results](https://github.com/EmilHJ98/Data-Science-Project/blob/main/Image%20folder/Streamlit_page3.png)
 
