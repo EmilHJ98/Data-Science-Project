@@ -1,10 +1,10 @@
 # Data-Science-Project
 ## Report
-#### I chose to focus on the transportation sector for my project. There has been a significant increase in the measurement of CO2 emissions, which has resulted in environmental changes. 
-#### My project involves creating a Machine Learning model that employs linear regression to estimate the level of pollution that a car engine could emit. 
-#### My focus is on utilising a Machine Learning approach to address the expected CO2 emissions resulting from vehicles.
-#### I collected a large dataset containing diverse varieties of cars from kaggle.
-#### ML models I will use for prediction: 
+#### We chose to focus on the transportation sector for our project. There has been a significant increase in the measurement of CO2 emissions, which has resulted in environmental changes. 
+#### Our project involves creating a Machine Learning model that employs linear regression to estimate the level of pollution that a car engine could emit. 
+#### Our focus is on utilising a Machine Learning approach to address the expected CO2 emissions resulting from vehicles.
+#### We collected a large dataset containing diverse varieties of cars from kaggle.
+#### ML models we will use for prediction: 
 * Linear Regression 
 * SVR 
 * Random Forest 
@@ -21,3 +21,5 @@
 ![Data and models](https://github.com/EmilHJ98/Data-Science-Project/blob/main/Image%20folder/Streamlit_page2.png)
 ![Results](https://github.com/EmilHJ98/Data-Science-Project/blob/main/Image%20folder/Streamlit_page3.png)
 
+You can download the dataset we've used below
+#### [Co2 Emission](https://github.com/EmilHJ98/Data-Science-Project/blob/main/CO2_Emissions_Canada.csv)
